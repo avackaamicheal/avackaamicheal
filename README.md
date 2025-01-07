@@ -15,5 +15,5 @@ I'm an aspiring software engineer currently studying at AltSchool Africa [School
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=avackaamicheal&show_icons=true&include_all_commits=true&hide_border=true" alt="Avackaa's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avackaamicheal&langs_count=8&layout=compact&hide_border=true" alt="Avackaa's GitHub stats" /> |
+|[![Avackaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=avackaamicheal)](https://github.com/anuraghazra/github-readme-stats)| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avackaamicheal&langs_count=8&layout=compact&hide_border=true" alt="Avackaa's GitHub stats" /> |
 | ------------- | ------------- |
